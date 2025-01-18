@@ -143,12 +143,12 @@ const Portfolio = () => {
       </div>
 
       {/* Auto-play toggle */}
-      <button
+      {/* <button
         onClick={() => setIsPlaying(!isPlaying)}
         className="absolute bottom-4 right-4 px-4 py-2 bg-white rounded-full shadow-lg hover:bg-gray-100"
       >
         {isPlaying ? 'Pause' : 'Play'}
-      </button>
+      </button> */}
     </div>
   );
 };
