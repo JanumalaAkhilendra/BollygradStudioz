@@ -25,7 +25,7 @@ const Footer = () => {
         <div className="flex flex-col items-center md:items-start">
           <div className="w-32 h-32 bg-white rounded-full flex items-center justify-center mb-4">
             <img
-              src="../../logo.webp"
+              src="./logo.webp"
               alt="Bollygrad Studioz"
               className="w-24 h-24 object-contain rounded-full"
             />

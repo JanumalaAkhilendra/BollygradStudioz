@@ -11,7 +11,7 @@ const Portfolio = () => {
       title: "Karan Arjun 2",
       subtitle: "41 Interesting Facts",
       cast: "Salman khan | Shahrukh Khan | Deepika padukon | Katrina kaif",
-      imageUrl: "../../kgf-chapter-2_164784859710-e1682160065661.webp",
+      imageUrl: "./kgf-chapter-2_164784859710-e1682160065661.webp",
       videoUrl: "https://youtube.com/watch?v=example1"
     },
     {
@@ -19,7 +19,7 @@ const Portfolio = () => {
       title: "Movie 2",
       subtitle: "35 Interesting Facts",
       cast: "Cast Member 1 | Cast Member 2",
-      imageUrl: "../../ikj.webp",
+      imageUrl: "./ikj.webp",
       videoUrl: "https://youtube.com/watch?v=example2"
     },
     {
@@ -27,7 +27,7 @@ const Portfolio = () => {
       title: "Movie 3",
       subtitle: "28 Interesting Facts",
       cast: "Cast Member 3 | Cast Member 4",
-      imageUrl: "../../uhy-e1682075533400.png",
+      imageUrl: "./uhy-e1682075533400.png",
       videoUrl: "https://youtube.com/watch?v=example3"
     }
   ];

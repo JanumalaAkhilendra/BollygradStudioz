@@ -6,32 +6,32 @@ const services = [
     icon: <Camera className="w-6 h-6" />,
     title: 'Photography',
     description: 'Professional photography services for all your special occasions.',
-    image: '../../movie1.webp',
-    profile: '../../movie1.webp',
+    image: './movie1.webp',
+    profile: './movie1.webp',
     location: 'Studio 1'
   },
   {
     icon: <Video className="w-6 h-6" />,
     title: 'Videography',
     description: 'High-quality video production and editing services.',
-    image: '../../movie1.webp',
-    profile: '../../movie1.webp',
+    image: './movie1.webp',
+    profile: './movie1.webp',
     location: 'Studio 2'
   },
   {
     icon: <Heart className="w-6 h-6" />,
     title: 'Wedding Coverage',
     description: 'Complete wedding photography and videography packages.',
-    image: '../../movie1.webp',
-    profile: '../../movie1.webp',
+    image: './movie1.webp',
+    profile: './movie1.webp',
     location: 'Studio 3'
   },
   {
     icon: <Users className="w-6 h-6" />,
     title: 'Events',
     description: 'Corporate events, parties, and social gatherings coverage.',
-    image: '../../movie1.webp',
-    profile: '../../movie1.webp',
+    image: './movie1.webp',
+    profile: './movie1.webp',
     location: 'Studio 4'
   }
 ];
@@ -50,12 +50,12 @@ const Services = () => {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <img src="../../p1.webp" alt="Front Image" />
+                <img src="./p1.webp" alt="Front Image" />
                 <p className="title">Listen Music </p>
                 <p>Music</p>
               </div>
               <div className="flip-card-back">
-                <img src="../../p2.webp" alt="Back Image" />
+                <img src="./p2.webp" alt="Back Image" />
                 <p className="title">Listen Music</p>
                 <p>Listen & Enjoy</p>
               </div>
@@ -64,12 +64,12 @@ const Services = () => {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <img src="../../p2.webp" alt="Front Image" />
+                <img src="./p2.webp" alt="Front Image" />
                 <p className="title">Watch Movies</p>
                 <p>Movies</p>
               </div>
               <div className="flip-card-back">
-                <img src="../../p1.webp" alt="Back Image" />
+                <img src="./p1.webp" alt="Back Image" />
                 <p className="title">BACK</p>
                 <p>Leave Me</p>
               </div>
@@ -78,12 +78,12 @@ const Services = () => {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <img src="../../p3.webp" alt="Front Image" />
+                <img src="./p3.webp" alt="Front Image" />
                 <p className="title"> Enjoy Trailers</p>
                 <p>Trailers</p>
               </div>
               <div className="flip-card-back">
-                <img src="../../p4.webp" alt="Back Image" />
+                <img src="./p4.webp" alt="Back Image" />
                 <p className="title">BACK</p>
                 <p>Leave Me</p>
               </div>
@@ -92,12 +92,12 @@ const Services = () => {
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
-                <img src="../../p4.webp" alt="Front Image" />
+                <img src="./p4.webp" alt="Front Image" />
                 <p className="title"> Our Products</p>
                 <p>Products</p>
               </div>
               <div className="flip-card-back">
-                <img src="../../p4.webp" alt="Back Image" />
+                <img src="./p4.webp" alt="Back Image" />
                 <p className="title">BACK</p>
                 <p>Leave Me</p>
               </div>

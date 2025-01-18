@@ -37,7 +37,7 @@ export default function Hero() {
         {/* Logo */}
         <div className="relative h-full flex flex-1 items-center justify-center text-center">
           <img
-            src="../../logo.webp"
+            src="./logo.webp"
             alt="Logo"
             className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] lg:w-[20vw] lg:h-[20vw] max-w-[300px] max-h-[300px] rounded-full object-cover"
           />

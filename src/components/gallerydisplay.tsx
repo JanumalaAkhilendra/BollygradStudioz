@@ -5,12 +5,12 @@ const SpreadingGallery = () => {
   const galleryRef = useRef(null);
 
   const images = [
-    { id: 1, title: "Oppenheimer", url: "../../1314905.webp" },
-    { id: 2, title: "Mission Impossible", url: "../../maxresdefault-2.webp" },
-    { id: 3, title: "Leo First Look", url: "../../desktop-wallpaper-tom-cruise-to-run-towards-his-own-death-in-mission-impossible-7-mission-impossible-7.webp" },
-    { id: 4, title: "Jawaan", url: "../../wallpapersden.com_hd-into-the-spider-verse_1920x1094.webp" },
-    { id: 5, title: "Leo First Look", url: "../../Jawan-2022.webp" },
-    { id: 6, title: "Jawaan", url: "../../maxresdefault-1.webp" },
+    { id: 1, title: "Oppenheimer", url: "./1314905.webp" },
+    { id: 2, title: "Mission Impossible", url: "./maxresdefault-2.webp" },
+    { id: 3, title: "Leo First Look", url: "./desktop-wallpaper-tom-cruise-to-run-towards-his-own-death-in-mission-impossible-7-mission-impossible-7.webp" },
+    { id: 4, title: "Jawaan", url: "./wallpapersden.com_hd-into-the-spider-verse_1920x1094.webp" },
+    { id: 5, title: "Leo First Look", url: "./Jawan-2022.webp" },
+    { id: 6, title: "Jawaan", url: "./maxresdefault-1.webp" },
   ];
 
   useEffect(() => {

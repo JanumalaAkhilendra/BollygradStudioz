@@ -23,7 +23,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between max-w-7xl mx-auto">
         {/* Logo or brand name can go here */}
         <div className="text-white text-2xl font-semibold">
-          <img className='w-20 h-20 rounded-full' src="../../logo.webp" alt="" />
+          <img className='w-20 h-20 rounded-full' src="./logo.webp" alt="" />
         </div>
 
         {/* Hamburger menu for mobile */}
